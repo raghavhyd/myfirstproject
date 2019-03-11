@@ -3,3 +3,5 @@ this is demo
 this line is added in develop branch
 
 this line is added in master -1
+
+this line is added after stash command(after stash)
